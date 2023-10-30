@@ -1,5 +1,5 @@
 # BA-Thesis-TDM
-This repository contains the codebase for my bachelor thesis project. 
+This repository contains the codebase of my bachelor thesis project. 
 
 The report contains everything one needs to know about what work has been done.
 
